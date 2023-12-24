@@ -59,7 +59,22 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
+int aux(int** grid, int gridSize, int* gridColSize, int*current, int* visited) {
+
+}
 int uniquePathsIII(int** grid, int gridSize, int* gridColSize) {
-    
+    int negCount = 1;
+    for(int i = 0; i < gridSize; i++) {
+        for(int j = 0; j < *gridColSize; j++) {
+            if(grid[i][j] == -1) {
+                negCount++;
+            }
+        }
+    }
+    int current[2] = {0, 0};
+    grid[0][0] = -1;
+    int visited[gridSize * *gridColSize];
+    return aux(grid, gridSize, gridColSize, current, visited);
+
 }
 //leetcode submit region end(Prohibit modification and deletion)
