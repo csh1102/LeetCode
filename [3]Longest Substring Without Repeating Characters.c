@@ -41,6 +41,27 @@
 
 //leetcode submit region begin(Prohibit modification and deletion)
 int lengthOfLongestSubstring(char* s) {
-    
+    int count = 0;
+    int len = strlen(s);
+    if (len == 0) {
+        return 0;
+    }
+
+    int* arr = (int*) calloc(256, sizeof(int));
+    int start = 0;
+
+    for (int i = 0; i < len; i++) {
+        if (arr[s[i]] > start) {
+            start = arr[s[i]];
+        }
+
+        arr[s[i]] = i + 1;
+        if (i - start + 1 > count) {
+            count = i - start + 1;
+        }
+    }
+
+    free(arr);
+    return count;
 }
 //leetcode submit region end(Prohibit modification and deletion)

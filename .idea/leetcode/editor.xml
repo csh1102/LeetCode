@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/[1105]Filling Bookcase Shelves.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[1105]Filling Bookcase Shelves.md" />
+              <option name="frontendQuestionId" value="leetcode.com1105" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/[1105]Filling Bookcase Shelves.c" />
+              <option name="titleSlug" value="filling-bookcase-shelves" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[1460]Make Two Arrays Equal by Reversing Subarrays.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[1460]Make Two Arrays Equal by Reversing Subarrays.md" />
+              <option name="frontendQuestionId" value="leetcode.com1460" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/[1460]Make Two Arrays Equal by Reversing Subarrays.c" />
+              <option name="titleSlug" value="make-two-arrays-equal-by-reversing-subarrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[2678]Number of Senior Citizens.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[2678]Number of Senior Citizens.md" />
+              <option name="frontendQuestionId" value="leetcode.com2678" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/[2678]Number of Senior Citizens.c" />
+              <option name="titleSlug" value="number-of-senior-citizens" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[3]Longest Substring Without Repeating Characters.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[3]Longest Substring Without Repeating Characters.md" />
+              <option name="frontendQuestionId" value="leetcode.com3" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/[3]Longest Substring Without Repeating Characters.c" />
+              <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[49]Group Anagrams.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[49]Group Anagrams.md" />
+              <option name="frontendQuestionId" value="leetcode.com49" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/[49]Group Anagrams.c" />
+              <option name="titleSlug" value="group-anagrams" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
